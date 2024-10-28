@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Fragrance")(type "KiCad")(uri "C:/Projects/Kicad/Scent_Diffuser.pretty")(options "")(descr ""))
+  (lib (name "KiCADv6 - Amphenol_10155435-00011LF_USB C Connector_footprints")(type "KiCad")(uri "C:/Projects/Kicad/USBC_KiCAD/KiCADv6 - Amphenol_10155435-00011LF_USB C Connector_footprints.pretty")(options "")(descr ""))
+  (lib (name "USB_Connector")(type "KiCad")(uri "${KIPRJMOD}/USB_Connector.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
